@@ -1,0 +1,60 @@
+Added Component: Designator=J1(HDR2X2)
+Added Component: Designator=J2(PCBComponent_1)
+Added Component: Designator=J3(HDR1X20)
+Added Component: Designator=J4(HDR1X20)
+Added Pin To Net: NetName=BOOT0 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=BOOT1 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=NetF1_1 Pin=J2-1
+Added Pin To Net: NetName=USB  DM Pin=J2-2
+Added Pin To Net: NetName=USB  DP Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=VBAT Pin=J3-1
+Added Pin To Net: NetName=PC13 Pin=J3-2
+Added Pin To Net: NetName=PC14 Pin=J3-3
+Added Pin To Net: NetName=PC15 Pin=J3-4
+Added Pin To Net: NetName=NRST Pin=J3-5
+Added Pin To Net: NetName=VDDA Pin=J3-6
+Added Pin To Net: NetName=PA0 Pin=J3-7
+Added Pin To Net: NetName=PA1 Pin=J3-8
+Added Pin To Net: NetName=PA2 Pin=J3-9
+Added Pin To Net: NetName=PA3 Pin=J3-10
+Added Pin To Net: NetName=PA4 Pin=J3-11
+Added Pin To Net: NetName=PA5 Pin=J3-12
+Added Pin To Net: NetName=PA6 Pin=J3-13
+Added Pin To Net: NetName=PA7 Pin=J3-14
+Added Pin To Net: NetName=PB0 Pin=J3-15
+Added Pin To Net: NetName=PB1 Pin=J3-16
+Added Pin To Net: NetName=PB10 Pin=J3-17
+Added Pin To Net: NetName=PB11 Pin=J3-18
+Added Pin To Net: NetName=GND Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=PB12 Pin=J4-1
+Added Pin To Net: NetName=PB13 Pin=J4-2
+Added Pin To Net: NetName=PB14 Pin=J4-3
+Added Pin To Net: NetName=PB15 Pin=J4-4
+Added Pin To Net: NetName=PA8 Pin=J4-5
+Added Pin To Net: NetName=PA9 Pin=J4-6
+Added Pin To Net: NetName=PA10 Pin=J4-7
+Added Pin To Net: NetName=PA11 Pin=J4-8
+Added Pin To Net: NetName=PA12 Pin=J4-9
+Added Pin To Net: NetName=PA15 Pin=J4-10
+Added Pin To Net: NetName=PB3 Pin=J4-11
+Added Pin To Net: NetName=PB4 Pin=J4-12
+Added Pin To Net: NetName=PB5 Pin=J4-13
+Added Pin To Net: NetName=PB6 Pin=J4-14
+Added Pin To Net: NetName=PB7 Pin=J4-15
+Added Pin To Net: NetName=PB8 Pin=J4-16
+Added Pin To Net: NetName=PB9 Pin=J4-17
+Added Pin To Net: NetName=GND Pin=J4-18
+Added Pin To Net: NetName=+3V3 Pin=J4-19
+Added Pin To Net: NetName=+5V Pin=J4-20
+Added Member To Class: ClassName=project_Sheet Member=Component J1 Header 2x2
+Added Member To Class: ClassName=project_Sheet Member=Component J2 Header 1x7
+Added Member To Class: ClassName=project_Sheet Member=Component J3 Header 1x20
+Added Member To Class: ClassName=project_Sheet Member=Component J4 Header 1x20
