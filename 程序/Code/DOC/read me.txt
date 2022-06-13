@@ -1,0 +1,17 @@
+
+/*
+	Qq:2583518067
+	B站：amingkl
+	CSDN：amkl
+	Github:https://github.com/AMingKL
+*/
+
+
+
+硬件连接
+  *编码器1             编码器2           蓝牙        OLED       MPU6050
+  *PA0/PA1---TIM2      PB6/PB7---TIM4    TXD-PB11    SCL-PA3    SCL-PB8
+  *电机1               电机2             RXD-PB10    SDA-PA2    SDA-PB9
+  *PB14/PB15           PB3/PB13                                 INT-PB5
+  *PWM1                PWM2
+  *PA8                 PA11
